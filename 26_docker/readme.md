@@ -1,0 +1,5 @@
+- Docker adalah platform perangkat lunak yang memungkinkan Anda membangun, menguji, dan menyebarkan aplikasi dengan cepat. 
+
+- Docker mengemas perangkat lunak ke dalam unit standar yang disebut wadah, yang memiliki semua yang dibutuhkan perangkat lunak untuk dijalankan, termasuk pustaka, alat sistem, kode, dan runtime. Dengan menggunakan Docker, Anda dapat dengan cepat menerapkan dan menskalakan aplikasi ke lingkungan apa pun dengan keyakinan bahwa kode Anda akan berfungsi.
+
+- Menggunakan Docker memungkinkan Anda mengirimkan kode lebih cepat, menstandarkan operasi aplikasi, memindahkan kode dengan mulus, dan menghemat uang melalui pemanfaatan sumber daya yang lebih baik. Dengan Docker, Anda mendapatkan objek yang dapat dijalankan di mana saja.  Sintaks langsung Docker memberi Anda kendali penuh. Adopsi luas berarti ada ekosistem yang kuat dari alat dan aplikasi siap pakai untuk digunakan dengan Docker.
